@@ -12,19 +12,19 @@
     {
       "id": 2,
       "author": "Hansa",
-      "username": "@hnskse",
+      "username": "@sfkse",
       "content": "Happy to develop with React!",
-      "comment": 350,
-      "retweet": 50,
-      "like": 180
+      "comment": 5,
+      "retweet": 15,
+      "like": 30
     },
     {
       "author": "Sefa",
       "username": "@sfkse",
-      "content": "asdasd",
-      "comment": 5,
-      "retweet": 3,
-      "like": 18,
+      "content": "I like to move it!",
+      "comment": 3,
+      "retweet": 4,
+      "like": 12,
       "id": 3
     },
     {
