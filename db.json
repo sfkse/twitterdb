@@ -13,7 +13,7 @@
       "id": 2,
       "author": "Hansa",
       "username": "@hnskse",
-      "content": "Hey, this is my wifes tweet",
+      "content": "Happy to develop with React!",
       "comment": 350,
       "retweet": 50,
       "like": 180
@@ -35,69 +35,6 @@
       "retweet": 3,
       "like": 18,
       "id": 4
-    },
-    {
-      "author": "Sefa",
-      "username": "@sfkse",
-      "content": "seff",
-      "comment": 5,
-      "retweet": 3,
-      "like": 18,
-      "id": 5
-    },
-    {
-      "author": "Sefa",
-      "username": "@sfkse",
-      "content": "sefaa",
-      "comment": 5,
-      "retweet": 3,
-      "like": 18,
-      "id": 6
-    },
-    {
-      "author": "Sefa",
-      "username": "@sfkse",
-      "content": "asd",
-      "comment": 5,
-      "retweet": 3,
-      "like": 18,
-      "id": 7
-    },
-    {
-      "author": "Sefa",
-      "username": "@sfkse",
-      "content": "asd",
-      "comment": 5,
-      "retweet": 3,
-      "like": 18,
-      "id": 8
-    },
-    {
-      "author": "Sefa",
-      "username": "@sfkse",
-      "content": "asd",
-      "comment": 5,
-      "retweet": 3,
-      "like": 18,
-      "id": 9
-    },
-    {
-      "author": "Sefa",
-      "username": "@sfkse",
-      "content": "asd",
-      "comment": 5,
-      "retweet": 3,
-      "like": 18,
-      "id": 10
-    },
-    {
-      "author": "Sefa",
-      "username": "@sfkse",
-      "content": "sssssssssssss",
-      "comment": 5,
-      "retweet": 3,
-      "like": 18,
-      "id": 11
     }
   ],
   "feeds": [
